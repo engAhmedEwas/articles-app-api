@@ -24,3 +24,6 @@
 ## كيفية التشغيل
 1. قم باستيراد قاعدة البيانات من ملف الـ SQL المرفق.
 2. قم بتعديل بيانات الاتصال في `config/db_conn.php`.
+
+## Database Design (ERD)
+![Database Diagram](./Summary/articalDB.png)
