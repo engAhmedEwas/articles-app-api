@@ -5,7 +5,7 @@
     error_reporting(E_ALL);
 
     // Database Configration prams
-    $db_host = "localhost";
+    $db_host = "127.0.0.1";
     $db_name = "dashboardDB";
     $db_user = "ahmed";
     $db_password = "password";
